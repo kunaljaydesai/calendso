@@ -79,7 +79,7 @@
     "yarn": ">=1.19.0 < 2.0.0"
   },
   "prisma": {
-    "schema": "pacakges/prisma/schema.prisma"
+    "schema": "packages/prisma/schema.prisma"
   },
   "packageManager": "yarn@1.22.17"
 }
